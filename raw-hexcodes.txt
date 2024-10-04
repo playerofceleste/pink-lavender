@@ -1,0 +1,17 @@
+regular 
+#0c0611
+#1c1621
+#90758d
+#b292ac
+#c29eb6
+#bb9fc2
+#c8a3bc
+#dab2cc
+#eed8e5
+
+high intensity
+#df93cc
+#ffb3ec
+#ffd3ec
+#ffdeec
+#ffeeee
