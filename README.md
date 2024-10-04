@@ -1,2 +1,2 @@
 # pink-lavender
-a pale pink theme
+## a pale pink dark theme
