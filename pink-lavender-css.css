@@ -1,0 +1,44 @@
+/* basic css for a simple webpage using the pink lavender dark theme*/
+body {
+  background-color: #0c0611;
+}
+
+h1 {
+  color:  #dab2cc;
+}
+h2 {
+  color:  #dab2cc;
+}
+h3 {
+  color:  #dab2cc;
+}
+h4 {
+  color:  #dab2cc;
+}
+h5 {
+  color:  #dab2cc;
+}
+h6 {
+  color:  #dab2cc;
+}
+p {
+  color:  #eed8e5;
+}
+a {
+  text-decoration: none;
+}
+a:link { 
+ color: #DF93cC;
+}
+a:visited { 
+ color: #90758d;
+}
+a:hover {
+  text-decoration: underline;
+}
+ul {
+  color: #dab2cc;
+}
+ol {
+  color: #dab2cc;
+}
