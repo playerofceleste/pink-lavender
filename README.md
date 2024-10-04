@@ -4,6 +4,7 @@ the pink lavender colour scheme is what happens when you fuse the ideas of dark 
 
 currently there is support for basic css and raw hex codes with more support soon to come
 
+```
 background: #0c0611
 
 background-light: #1c1621
@@ -19,3 +20,4 @@ link: #df93cc
 link-visited: #90758d
 
 list: #dab2cc
+```
