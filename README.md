@@ -22,4 +22,4 @@ link-visited: #90758d
 list: #dab2cc
 ```
 software that natively support the theme:
-- quartz text editor
+- [quartz text editor](https://github.com/DoubleDotStudios/Quartz)
