@@ -21,3 +21,4 @@ list: #dab2cc
 ```
 software that natively support the theme:
 - [*quartz* notes app](https://github.com/DoubleDotStudios/Quartz) (known as "dark frequencies" in the current release but will be renamed in future releases)
+- [kitty](https://sw.kovidgoyal.net/kitty/) (inside of the themes kitten, as pinkLavender)
