@@ -1,0 +1,213 @@
+{
+    "custom-styles": {
+        "Python": {
+            "B-String": {
+                "italic": true
+            },
+            "Complex": {
+                "selected-text-color": "#61a1ae",
+                "text-color": "#6b80ae"
+            },
+            "Error": {
+                "bold": true,
+                "text-color": "#da2949"
+            },
+            "F-String": {
+                "italic": true
+            },
+            "Hex": {
+                "selected-text-color": "#ad9cea",
+                "text-color": "#a291da"
+            },
+            "Normal Text": {
+                "text-color": "#e4afee"
+            },
+            "Octal": {
+                "selected-text-color": "#da9c69",
+                "text-color": "#da9c69"
+            },
+            "Raw B-String": {
+                "italic": true
+            },
+            "Raw F-String": {
+                "italic": true
+            },
+            "Raw String": {
+                "italic": true
+            },
+            "String": {
+                "italic": true
+            }
+        }
+    },
+    "editor-colors": {
+        "BackgroundColor": "#0c0611",
+        "BracketMatching": "#8e44ad",
+        "CodeFolding": "#c19db7",
+        "CurrentLine": "#2c2631",
+        "CurrentLineNumber": "#5c4661",
+        "IconBorder": "#1c1621",
+        "IndentationLine": "#1c1621",
+        "LineNumbers": "#d9c5d1",
+        "MarkBookmark": "#7a83d3",
+        "MarkBreakpointActive": "#bc6060",
+        "MarkBreakpointDisabled": "#ca80be",
+        "MarkBreakpointReached": "#a7945a",
+        "MarkError": "#da1574",
+        "MarkExecution": "#1c1621",
+        "MarkWarning": "#f6a55f",
+        "ModifiedLines": "#8e6bc0",
+        "ReplaceHighlight": "#512045",
+        "SavedLines": "#dab2cc",
+        "SearchHighlight": "#5c4661",
+        "Separator": "#1c1621",
+        "SpellChecking": "#c07979",
+        "TabMarker": "#1c1621",
+        "TemplateBackground": "#0c0611",
+        "TemplateFocusedPlaceholder": "#267449",
+        "TemplatePlaceholder": "#247046",
+        "TemplateReadOnlyPlaceholder": "#712e36",
+        "TextSelection": "#4c3651",
+        "WordWrapMarker": "#1c1621"
+    },
+    "metadata": {
+        "name": "pinkLavender",
+        "revision": 1
+    },
+    "text-styles": {
+        "Alert": {
+            "background-color": "#4d1f24",
+            "bold": true,
+            "selected-text-color": "#da00cf",
+            "text-color": "#da1d20"
+        },
+        "Annotation": {
+            "selected-text-color": "#54aa75",
+            "text-color": "#3f8058"
+        },
+        "Attribute": {
+            "selected-text-color": "#61ce9b",
+            "text-color": "#4ca27a"
+        },
+        "BaseN": {
+            "selected-text-color": "#da3b7b",
+            "text-color": "#da3b7b"
+        },
+        "BuiltIn": {
+            "selected-text-color": "#eed8e5",
+            "text-color": "#eebcdb"
+        },
+        "Char": {
+            "selected-text-color": "#b294ff",
+            "text-color": "#b294ff"
+        },
+        "Comment": {
+            "selected-text-color": "#e295d9",
+            "text-color": "#905f8a"
+        },
+        "CommentVar": {
+            "bold": true,
+            "selected-text-color": "#e295d9",
+            "text-color": "#905f8a"
+        },
+        "Constant": {
+            "bold": true,
+            "selected-text-color": "#27aeae",
+            "text-color": "#27aeae"
+        },
+        "ControlFlow": {
+            "bold": true,
+            "selected-text-color": "#a65db3",
+            "text-color": "#a65db3"
+        },
+        "DataType": {
+            "selected-text-color": "#fdbc4b",
+            "text-color": "#2980b9"
+        },
+        "DecVal": {
+            "selected-text-color": "#da77c8",
+            "text-color": "#da77c8"
+        },
+        "Documentation": {
+            "selected-text-color": "#da4453",
+            "text-color": "#9f07a4"
+        },
+        "Error": {
+            "selected-text-color": "#da4453",
+            "text-color": "#da4453",
+            "underline": true
+        },
+        "Extension": {
+            "bold": true,
+            "selected-text-color": "#7091c7",
+            "text-color": "#6066ba"
+        },
+        "Float": {
+            "selected-text-color": "#7343c5",
+            "text-color": "#7343c5"
+        },
+        "Function": {
+            "selected-text-color": "#af81ff",
+            "text-color": "#8e44ad"
+        },
+        "Import": {
+            "selected-text-color": "#d571de",
+            "text-color": "#a959af"
+        },
+        "Information": {
+            "selected-text-color": "#e46700",
+            "text-color": "#c45b00"
+        },
+        "Keyword": {
+            "bold": true,
+            "selected-text-color": "#eec7e2",
+            "text-color": "#eec7e2"
+        },
+        "Normal": {
+            "selected-text-color": "#eed8e5",
+            "text-color": "#eed8e5"
+        },
+        "Operator": {
+            "selected-text-color": "#b970a3",
+            "text-color": "#b970a3"
+        },
+        "Others": {
+            "selected-text-color": "#27ae60",
+            "text-color": "#27ae60"
+        },
+        "Preprocessor": {
+            "selected-text-color": "#61ae7b",
+            "text-color": "#84ae8a"
+        },
+        "RegionMarker": {
+            "background-color": "#153042",
+            "selected-text-color": "#3daee9",
+            "text-color": "#2980b9"
+        },
+        "SpecialChar": {
+            "selected-text-color": "#b294ff",
+            "text-color": "#b294ff"
+        },
+        "SpecialString": {
+            "selected-text-color": "#bb9fc2",
+            "text-color": "#bb9fc2"
+        },
+        "String": {
+            "selected-text-color": "#bb9fc2",
+            "text-color": "#bb9fc2"
+        },
+        "Variable": {
+            "selected-text-color": "#c075d3",
+            "text-color": "#c075d3"
+        },
+        "VerbatimString": {
+            "selected-text-color": "#bb9fc2",
+            "text-color": "#bb9fc2"
+        },
+        "Warning": {
+            "bold": true,
+            "selected-text-color": "#da4453",
+            "text-color": "#da1654"
+        }
+    }
+}
